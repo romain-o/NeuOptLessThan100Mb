@@ -8,6 +8,8 @@ logs*/
 outputs/
 others/
 .DS_Store
+pre-trained/
+datasets/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
